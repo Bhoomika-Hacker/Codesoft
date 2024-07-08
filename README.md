@@ -1,5 +1,4 @@
-# Codesoft
-Codesoft_python
+# Codesoft_Python
 
 # TASK-2
 
